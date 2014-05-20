@@ -1,0 +1,14 @@
+{
+  "name": "lianyi_test",
+  "version": "0.0.1",
+  "description": "lianyi test for bower",
+  "main": "main.js",
+  "keywords": [
+    "lianyi",
+    "test"
+  ],
+  "authors": [
+    "lianyi.zly@alibaba-inc.com"
+  ],
+  "license": "MIT"
+}
